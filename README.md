@@ -4,6 +4,10 @@ Created by Paul Cohen (original version, 2003) and Clayton T. Morrison (2004)
 
 With contributions from Joshua Moody, Andrew Hannon, Gary King and David Westbrook
 
+The Hats Simulator is written in common lisp.
+
+Contact Clayton Morrison for access to the code: `claytonm@email.arizona.edu`
+
 # The Hats Simulator Manual
 
 ## (1) Introduction
